@@ -17,3 +17,16 @@ module.exports = {
     },
 
 };
+
+// module.exports = {
+//     async redirects() {
+//       return [
+//         {
+//           source: './',
+//           destination: '/',
+//           permanent: false,
+//         },
+//       ];
+//     },
+//   };
+  
